@@ -1,4 +1,4 @@
 # Kag-ChatCommands.as
 
 
-http://www.mediafire.com/file/a2y7650ahvcwrxt/ChatCommands.as
+http://www.mediafire.com/file/i9vfgg5i239cxw3/ChatCommands.as
